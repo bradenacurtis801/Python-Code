@@ -7,6 +7,22 @@ cumulative GPA of all courses in the list.
 
 
 **Program Example Output**
+
+```temp.py
+import random
+from courselist import CourseList
+from course import Course
+
+random.seed(0)
+cl = CourseList()
+courseNumbers = []
+for _ in range(37):
+    courseNumbers.append(random.randrange(1000, 7000))
+for number in courseNumbers:
+    cl.insert(Course(number, "test", 1.0, 2.0))
+    
+print(cl)
+```
 ```bash
 PS C:\Users\Braden\OneDrive\Homework Documents\Spring 2022\CS 2420\Project3\Project3Code\revisedVersion>      & C:/Python311/python.exe "c:/Users/Braden/OneDrive/Homework Documents/Spring 2022/CS 2420/Project3/Project3Code/revisedVersion/temp.py"
 Current List: (37)
