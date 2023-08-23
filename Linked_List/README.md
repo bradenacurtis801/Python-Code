@@ -7,7 +7,7 @@ cumulative GPA of all courses in the list.
 
 
 **Program Example Output**
-
+* * temp.py
 ```temp.py
 import random
 from courselist import CourseList
