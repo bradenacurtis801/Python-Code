@@ -1,0 +1,33 @@
+ID,Name,Address,City,State,Zip,Classification,Pay_Method,Salary,Hourly,Commission,Route,Account,Birth_Date,SSN,Phone,Email,Start_Date,End_Date,Title,Dept,Permission,Password
+0,Admin Admin,2248 Geoffrey Blvd,Vernal,TN,81204,3,1,70000.0,-1,70.0,23-4567-89,1234-567,12-29-1999,221-21-2233,(801)616-2574,matt.ackerman@gmail.com,3/18/2022,04/01/2022,Water Boy,R&D,admin,0
+502141,Brock Sandoval,4882 Consectetuer Street,Wyoming,WY,15840,2,1,58436.75,-1,-1,13977869-3,906688-1963,9/7/1989,990-24-9441,(307)754-6970,bsandoval@timely.com,6/6/2011,,Manager,Sales,admin,V6ygCWaaD
+377013,Teagan Goodwin,P.O. Box 317,Akron,OH,66603,3,2,69765.24,-1,13.0,-1,-1,1/1/2001,959-74-6252,(216)105-1122,goodwinteagan@gmail.com,11/27/2013,,Essential Worker,Production,admin,LsYct8gyK
+983011,Matt Ackerman,2248 Geoffrey Blvd,Vernal,TN,81204,3,1,70000.0,-1,70.0,23-4567-89,1234-567,12-29-1999,221-21-2233,(801)616-2574,matt.ackerman@gmail.com,3/18/2022,04/01/2022,Water Boy,R&D,admin,m4tt
+1,Employee Employee,2248 Geoffrey Blvd,Vernal,TN,81204,3,1,70000.0,-1,70.0,23-4567-89,1234-567,12-29-1999,221-21-2233,(801)616-2574,matt.ackerman@gmail.com,3/18/2022,04/01/2022,Water Boy,R&D,employee,1
+688997,Karina Gay,998 Vitae St.,Atlanta,GA,45169,1,1,-1,46.92,-1,30417353-K,465794-3611,2/23/1984,330-74-2591,(404)460-1161,kaygay@gmail.com,3/18/2010,,Manager,Marketing,employee,t3st!ng*
+522759,TaShya D. Snow,2624 Hendrerit St.,College,AK,99789,2,2,50005.5,-1,-1,-1,-1,7/12/2000,196-15-1638,(907)396-8304,TSyhaD@gmail.com,8/8/2009,,Manager,Production,employee,r4nd0mn355
+983010,Jolene Burgess,P.O. Box 873,South Burlington,VT,32036,2,2,20042.77,-1,-1,-1,-1,2/28/1997,641-23-2663,(802)282-1107,Jburg@outlook.com,7/9/2018,,Personnel,HR,employee,P936J?=rX
+939825,Yoko M. Pitts,4825 Nec Ave,Meridian,ID,45614,1,1,-1,46.64,-1,123-123-123,1234-567,4/17/1964,912-86-1176,(208)228-6629,YokoP@gmail.com,7/14/2013,,Accountant,Finance,employee,EaQ^mej6`
+379767,Jin W. Morrison,8628 Id St.,Milwaukee,WI,80356,3,1,64467.1,-1,33.0,21038669-6,654904-8491,2/14/1964,993-56-6939,(534)228-6629,JinMorrison@yahoo.com,2/15/2017,,Essential Worker,Production,employee,42vYvRynG
+283809,Hanae Dickson,1633 Dolor Av.,Dover,DE,61813,1,2,-1,91.22,-1,-1,-1,1/9/1999,488-84-9564,(302)400-6136,hanae159@gmail.com,12/1/2013,,Personnel,HR,employee,55FKLzkwX
+224568,Jenna B. Strickland,70156 Rutrum Street,Phoenix,AZ,86207,1,1,-1,24.7,-1,33878326-4,248847-6397,1/29/1997,814-73-6515,(602)479-1370,jstrickland@yahoo.com,2/1/2011,8/20/2016,Researcher,R&D,employee,79yhsNEWR
+752867,Ruth S. Haley,6384 Risus Av. Ap #943,Waterbury,CT,58012,2,1,61050.17,-1,-1,12046284-9,399575-5166,6/23/2001,772-97-7920,(203)323-7957,ruthh515@gmail.com,8/9/2017,,Personnel,HR,employee,9NcyjDYAQ
+163695,Beatrice P. Ware,8903 Eget Rd.,Oklahoma City,OK,20552,1,1,-1,86.47,-1,26387832-9,212804-3003,12/24/1992,332-27-3225,(405)979-8318,pware21@gmail.com,3/22/2011,,Researcher,R&D,employee,FeBmhsc4r
+226423,Randall Horton,3834 Tortor Av.,Topeka,KS,52541,2,2,40872.6,-1,-1,-1,-1,8/11/1990,692-48-7537,(785)471-5496,ranhorton@gmail.com,11/2/2017,,Representative,Sales,employee,5ZdzFp9yC
+349833,Damian Garrison,1646 In Street,San Francisco,CA,95787,2,2,99571.55,-1,-1,-1,-1,9/17/1992,806-82-9751,(209)499-9118,damiang@gmail.com,7/9/2018,,Analyst,Marketing,employee,YJjXV9Dqh
+531061,Alvin Guerrero,248 Mauris St. Ap #748,Indianapolis,IN,92237,2,2,56430.96,-1,-1,-1,-1,7/11/2000,642-04-7188,(317)446-0544,alving@livinglife.org,7/21/2018,,Analyst,Marketing,employee,Q7Qz5ywEP
+169927,Alexandra Y. Duke,P.O. Box 727,Springfield,MA,50647,2,2,31631.98,-1,-1,-1,-1,6/7/1985,193-41-9348,(351)756-3004,dukealex@gmail.com,1/12/2011,,Manager,HR,employee,NFF4mwqb2
+454912,Sylvester J. Rowland,8628 Pede Ave,Baltimore,MD,93306,1,1,-1,25.2,-1,5363288-2,339235-5453,3/24/1938,741-63-2279,(301)718-2026,rowland836@gmail.com,7/13/2020,,Analyst,Marketing,employee,rje4a5PNH
+285767,Porter Wolfe,4842 Tincidunt Av.,Miami,FL,44875,1,1,-1,87.54,-1,16506147-0,087434-1662,5/5/1971,157-58-1208,(305)327-7943,pwolfe48@atlantis.com,9/24/2021,,Representative,Sales,employee,HWm6Nd2Yw
+674261,Scott T. Shields,8402 Pretium Rd. Ap #163,Grand Rapids,MI,26321,1,1,-1,83.43,-1,21871936-8,779622-5618,2/22/2002,253-65-5057,(616)138-6182,stshields@gmail.com,3/30/2020,6/25/2020,Essential Worker,Production,employee,rwdH2EjNh
+265154,Amir Mcintosh,83493 Nibh. Ave,West Jordan,UT,40532,3,2,91254.76,-1,27.0,-1,-1,5/12/1998,439-17-1900,(801)888-1487,amirmci@gmail.com,8/31/2019,,Researcher,R&D,employee,878yNMeGc
+160769,Grant X. Mccarthy,9846 Arcu. Road,Ketchikan,AK,99634,3,1,36025.38,-1,11.0,7117844-7,288413-2164,10/21/1998,335-71-5974,(907)661-9063,grantx@gmail.com,11/2/2017,,Researcher,R&D,employee,wHDZGb2eN
+426824,Mira Y. Wolf,37224 Pharetra Ave,Savannah,GA,22329,1,2,-1,26.99,-1,-1,-1,10/2/2002,205-97-5544,(678)836-5765,mywolf2232@yahoo.com,7/26/2020,,Accountant,Finanace,employee,bqZaH9zWW
+934003,Kelsey K. Saunders,9920 Aliquam Av. Ap #128,Salt Lake City,UT,97100,1,1,-1,31.24,-1,37723944-K,769125-4564,11/3/1999,292-59-9844,(801)375-3674,kksaunders@gmail.com,12/18/2017,,Essential Worker,Production,employee,85SuXMCgX
+983015,braden curtis,123 lane,orem,AR,84004,1,2,-1,32.0,-1,-1,-1,04/12/2000,000-00-0000,385-335-2143,bradenacurtis801@gmail.com,12/12/2222,,none,none,employee,0
+983012,Geoffrey Southhampton,34 Mulberry Street,Bellingham,WA,92301,2,1,72000.0,-1,-1,335-46352-12,98732-22,03/09/1994,432-54-1421,354-312-8932,geoffsouthhampton@test.com,07/21/2012,,Test Engineer,QA,admin,geofferyG3
+165966,Rooney Alvarado,4963 Nisl. St. Ap #185,Gillette,WY,20226,3,2,34532.37,-1,24.0,-1,-1,5/31/1991,940-07-4733,(307)927-2957,RooDoo@yahoo.com,12/5/2010,7/9/2012,Manager,R&D,admin,1954g00dy34r
+900100,Sopoline Bullock,4963 Nisl. St. Ap #579,Idaho Falls,ID,65094,1,2,-1,42.76,-1,-1,-1,12/28/1995,437-78-4964,(208)464-4981,Sopoline@besties.org,6/19/2011,04/05/2022,Manager,Finance,admin,gqQusT6cQ
+969829,Bruce A. Raymond,65009 Iaculis Road,Juneau,AK,99719,1,2,-1,17.33,-1,-1,-1,11/23/1993,649-26-5233,(907)284-7083,baray@bayray.com,6/3/2015,04/05/2022,Representative,Sales,employee,y3qWNFF2n
+983014,Garrett Brown,123 Washington St,Atlanta,GA,65201,3,2,78000.0,-1,150.0,-1,-1,03/04/1991,345-54-3210,456-789-1011,gbrown@example.com,06/22/2019,04/12/2022,Manager,R&D,admin,impossible
+983013,Yeff Yefferson,7654 Test2 St,Test City,TE,87654,2,1,900.0,-1,-1,8765-4321,7654321,08/07/1965,876-54-3210,(876)543-2101,example@example.com,08/07/1965,04/18/2022,Tester,Testing,admin,8765
